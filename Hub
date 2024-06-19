@@ -1,0 +1,2 @@
+brookhaven("0.2*)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/carscar5/fhub/main/fznhub.txt"))()
